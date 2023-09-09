@@ -1,4 +1,4 @@
 # demo
 first project
 <br>
-authur : deepak kharware
+authur : deepak Rajput
